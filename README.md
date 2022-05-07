@@ -6,6 +6,8 @@
   <img alt="Feedback-Logo" height=300 src="img\Icons8_flat_feedback.svg.png" />
 </p>
 
+<p align="center"><strong>OBS:</strong><p style="color: red" align="center">Estou resolvendo o problema de conflito de deploy do backend com Railway por causa do heroku. Então não é possível enviar feedbacks no momento ainda.</p></p>
+
 <br />
 
 ## 💻 Projeto
