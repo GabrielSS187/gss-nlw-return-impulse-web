@@ -2,7 +2,7 @@
   Feed Get
 </h1>
 
-<p align="center">
+<p align="center">Cancel changes
   <img alt="Feedback-Logo" height=300 src="img\Icons8_flat_feedback.svg.png" />
 </p>
 
@@ -11,7 +11,7 @@
 <br />
 
 ## 💻 Projeto
-**Projeto:**  `FeedGet` é uma projeto realizado na **Rocketseat** no evento **nlw< return />**. O projeto consiste em umenvio de feedbacks com três opcões e um formulario para escrever algo e também com uma opção de tirar uma foto do momento atual aós apertar a camera. Todas essas informações são guardadas em um banco de dados em depois enviadas por email para o dono da aplicação.
+**Projeto:**  `FeedGet` é uma projeto realizado na **Rocketseat** no evento **nlw< return />**. O projeto consiste em um formulário de envio de feedbacks com três opcões e também com uma opção de tirar uma foto do momento atual da tela após apertar a camera no lado do butão **enviar feedback**. Todas essas informações são guardadas em um banco de dados e depois enviadas por email para o dono da aplicação.
 
 ### Teste o projeto clicando: [Aqui](https://gss-nlw-return-impulse-web.vercel.app/)
 
