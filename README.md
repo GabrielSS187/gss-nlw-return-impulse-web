@@ -2,7 +2,7 @@
   Feed Get
 </h1>
 
-<p align="center">Cancel changes
+<p align="center">
   <img alt="Feedback-Logo" height=300 src="img\Icons8_flat_feedback.svg.png" />
 </p>
 
