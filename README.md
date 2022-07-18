@@ -87,3 +87,10 @@ $ yarn
 ```
 
 <br />
+
+
+# Autor
+
+Gabriel Silva Souza
+
+https://www.linkedin.com/in/gabriel-silva-souza-developer
